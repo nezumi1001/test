@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-this is c.txt
-=======
 this is not c.txt
->>>>>>> dev
